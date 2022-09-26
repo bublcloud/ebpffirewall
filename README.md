@@ -8,7 +8,6 @@ Thanks for the great work of:
 1. https://github.com/gamemann/XDP-Firewall
 2. https://github.com/xdp-project/
 
-
 # getting started
 
 ## install dependancies
@@ -47,7 +46,7 @@ make
 ```
 cd ~/
 cp -r ~/xdp-tutorial/libbpf ~/ebpffirewall/
-cd ~/bubl-xdp/
+cd ~/ebpffirewall/
 ```
 
 ## make project

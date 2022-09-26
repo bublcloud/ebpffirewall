@@ -1,6 +1,6 @@
 # Bubl ebpf firewall
 
-Warning! This is a work in progress.
+**Warning!** This is a work in progress and not recomended for producion use.
 Example to create a data driven firewall.
 
 ## thanks 

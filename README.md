@@ -56,13 +56,16 @@ cd ~/ebpffirewall/
 ```
 make
 ```
+The compiled eBPF program can be found as src/program.o
 
 ### loader
 ```
 make loader
 ```
+This creates the loader program in the project folder root. 
 
 ### command line utility
 ```
 make fcmd
 ```
+This creates the fcdm program in the project folder root. 
